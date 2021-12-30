@@ -170,7 +170,7 @@ The refactored code worked more efficiently than the original code and is now mo
 <img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width="500"><br>
 
 <br><b>Figure 4</b><br><br>
-<img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width="500"><br>
+<img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width="500"><br>
 
 ## Summary
 ### Advantages of Refactoring Code
