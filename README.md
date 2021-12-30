@@ -161,16 +161,16 @@ The VBA Script is as follows:
 The refactored code worked more efficiently than the original code and is now more adaptable for a new, larger data set of stocks to analyze. Figures 1 and 2 show the original runtime for the code without setting a variable across arrays. Figures 3 and 4 show the refactored code. 
 
 <br><b>Figure 1</b><br><br>
-<img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_Orignial_2017.png"><br>
+<img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_Orignial_2017.png" width="200"><br>
 
 <br><b>Figure 2</b><br><br>
-<img src="https://github.com/alexdallman1029/stock-analysis/resources/VBA_Challenge_Orignial_2018.png"><br>
+<img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_Orignial_2018.png" width="200"><br>
 
 <br><b>Figure 3</b><br><br>
-<img src="https://github.com/alexdallman1029/stock-analysis//VBA_Challenge_2017.png"><br>
+<img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width="200"><br>
 
 <br><b>Figure 4</b><br><br>
-<img src="https://github.com/alexdallman1029/stock-analysis//VBA_Challenge_2018.png"><br>
+<img src="https://github.com/alexdallman1029/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width="200"><br>
 
 ## Summary
 ### Advantages of Refactoring Code
